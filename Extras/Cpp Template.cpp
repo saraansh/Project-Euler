@@ -9,6 +9,8 @@ using namespace std;
 #define inf1 ll(2e18)+ll(1e10);
 
 int main(){
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
 
 
 
